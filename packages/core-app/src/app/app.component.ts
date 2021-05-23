@@ -1,4 +1,4 @@
-import { ExampleModel } from '@demo/shared/models/ExampleModel';
+import { ExampleModel } from '@demo/shared/models/Example/ExampleModel';
 import { Component } from '@angular/core';
 
 @Component({

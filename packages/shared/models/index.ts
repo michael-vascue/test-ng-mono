@@ -1,1 +1,2 @@
-export * from './ExampleModel'
+export * from './User'
+export * from './Example'
