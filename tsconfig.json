@@ -6,11 +6,6 @@
       "strict": false,                           /* Enable all strict type-checking options. */
       // "esModuleInterop": true,                  
       "skipLibCheck": true,                     /* Skip type checking of declaration files. */
-      "forceConsistentCasingInFileNames": true,  /* Disallow inconsistently-cased references to the same file. */
-    },
-    "references": [
-      { "path": "packages/shared" },
-      { "path": "packages/core-app" }
-    ]
-  }
-  
+      "forceConsistentCasingInFileNames": true  /* Disallow inconsistently-cased references to the same file. */
+    }
+}

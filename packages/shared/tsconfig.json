@@ -17,14 +17,6 @@
       "lib": [
         "es2018",
         "dom"
-      ],
-      "composite": true,
-      "paths": {
-        "@demo/core-app/*": ["../core-app/src/*"],
-        "@demo/shared/*": ["./src/*"]
-      }
-    },
-    "references": [
-      { "path": "../core-app" } 
-    ]  
+      ]
+    }
   }

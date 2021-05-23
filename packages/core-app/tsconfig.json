@@ -20,20 +20,12 @@
     "lib": [
       "es2018",
       "dom"
-    ],
-    "composite": true,
-    "paths": {
-      "@demo/core-app/*": ["src/*"],
-      "@demo/shared/*": ["../shared/src/*"]
-    }
+    ]
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
     "strictTemplates": true
-  },
-  "references": [
-    { "path": "../shared" } 
-  ]  
+  }
 }
