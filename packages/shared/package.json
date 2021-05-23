@@ -3,5 +3,5 @@
     "description": "testing",
     "version": "0.0.1",
     "author": "Testing",
-    "main": "model/index.ts"
+    "main": "model/**/*.ts"
 }
