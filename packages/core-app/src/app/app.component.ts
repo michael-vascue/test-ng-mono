@@ -1,11 +1,8 @@
 import { ExampleModel } from '@demo/shared/models/Example/ExampleModel';
 import { ExampleEnum } from '@demo/shared/models/Example/ExampleEnum';
-import {UserTest } from '@demo/shared/models/Example/UserTest';
+import { UserTest } from '@demo/shared/models/Example/UserTest';
 import { Component } from '@angular/core';
-enum ExampleEnum2 {
-    Enum1,
-    Enum2
-}
+
 @Component({
     selector: 'app-root',
     templateUrl: './app.component.html',
